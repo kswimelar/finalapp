@@ -2,7 +2,7 @@
 ### Kari Swimelar
 ### CIS-277-H010
 
-My App is based on inputting employee name, hours worked, pay rate. The Program will calculate gross pay and any overtime. I will possibly have the option to input the tax rate. 
+My App is based on inputting employee id, hours worked, and pay rate. The Program will calculate gross pay and any overtime and calculate tax. 
 
 
 You can use the [editor on GitHub](https://github.com/kswimelar/finalapp/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
