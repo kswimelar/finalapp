@@ -2,41 +2,13 @@
 ### Kari Swimelar
 ### CIS-277-H010
 
-My App is based on inputting employee id, hours worked, and pay rate. The Program will calculate gross pay and any overtime and calculate tax. 
+My app will take the weekly hours and hourly rate for the employees and calculate the Gross Pay, any Overtime pay, taxes and net pay.
+Taxes calculated on the gross pay, 
+10% for 0 - 999 
+20% for 1000 - 2999
+30% for 3000 - 3999
+40% for 4000 and greater.
+he employee id, hours worked, and pay rate. The Program will calculate gross pay and any overtime and calculate tax. 
 
-
-You can use the [editor on GitHub](https://github.com/kswimelar/finalapp/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kswimelar/finalapp/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Link to my repl.it Final App.
+[weeklyhours.cpp](https://repl.it/student/submissions/2615002)
