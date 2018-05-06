@@ -20,7 +20,7 @@ Taxes are calculated from the gross pay:
 40% for 4000 and greater.
 
 Link to my repl.it Final App.
-[weeklyhours.cpp](https://repl.it/student/submissions/2615002)
+[weeklyhours.cpp](https://repl.it/@klswimelar/Final-App)
 
 
 I would like to write the data to an Excel Spreadsheet and have the option to save the data calculated to a spreadsheet or to print off the calculated data. 
