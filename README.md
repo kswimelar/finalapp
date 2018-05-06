@@ -6,12 +6,17 @@ My app will take the weekly hours worked and hourly rate for the employee and ca
 The start of the app askes for the Employee ID, Hours Worked and Houry Pay. The app writes that date to a file and then askes if you want to continue. If continue "Y" is chosen, the app asks for next employee information, if continue "N" is chosen, the app displays the employee data on the screen.
 
 The App creats the file employee.txt and writes the employee ID, Hours worked and Pay Rate to the file. When finished entering the employee data, the program prints out the results with the headers:
+
 EMP ID:  HOURS: RATE: OVERPAY:  GROSSPAY: TAX:  NETPAY:  
 
 Taxes are calculated from the gross pay: 
+
 10% for 0 - 999 
+
 20% for 1000 - 2999
+
 30% for 3000 - 3999
+
 40% for 4000 and greater.
 
 Link to my repl.it Final App.
