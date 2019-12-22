@@ -3,7 +3,7 @@
 ### CIS-277-H010
 
 My app will take the weekly hours worked and hourly rate for the employee and calculate the Gross Pay, any Overtime pay, taxes and net pay.
-The start of the app askes for the Employee ID, Hours Worked and Houry Pay. The app writes that date to a file and then askes if you want to continue. If continue "Y" is chosen, the app asks for next employee information, if continue "N" is chosen, the app displays the employee data on the screen.
+The start of the app askes for the Employee ID, Hours Worked and Houry Pay. The app writes that data to a file and then askes if you want to continue. If continue "Y" is chosen, the app asks for next employee information, if continue "N" is chosen, the app displays the employee data on the screen.
 
 The App creats the file employee.txt and writes the employee ID, Hours worked and Pay Rate to the file. When finished entering the employee data, the program prints out the results with the headers:
 
